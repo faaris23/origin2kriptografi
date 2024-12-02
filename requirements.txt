@@ -1,0 +1,7 @@
+streamlit
+mysql-connector-python
+bcrypt
+cryptography
+pytesseract
+pillow
+pycryptodome
